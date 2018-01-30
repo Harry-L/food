@@ -16,4 +16,14 @@
 16: catch 122
 17: say hey cafe
 18: le tigre
+19: el furniture warehouse
 
+2018-01-22 : 2018-01-26
+22: the kaboom box
+23: disco cheetah
+24: vij's railway express
+25: tacofino
+26: via tevere
+
+2018-01-29 : 2018-02-02
+29: heritage asian eatery
