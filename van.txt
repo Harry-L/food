@@ -27,3 +27,12 @@
 
 2018-01-29 : 2018-02-02
 29: heritage asian eatery
+30: frying pan
+31: lucky's donuts
+01: mr. shawarma
+02: yui
+
+2018-02-05 : 2018-02-09
+05: freshslice
+06: five guys
+07: cartems donuts
